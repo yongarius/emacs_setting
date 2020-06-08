@@ -1,0 +1,12 @@
+cd
+cd .emacs.d/
+ls
+cd ..
+cd ~
+cd .emacs.d/
+ls
+cd custom
+ls
+cd 
+cd .emacs.d/
+cd custom/
